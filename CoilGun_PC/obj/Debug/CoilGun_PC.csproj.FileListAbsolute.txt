@@ -42,3 +42,14 @@ F:\Programming\CoilGun\CoilGun_PC\CoilGun_PC\CoilGun_PC\obj\Debug\CoilGun_PC.csp
 F:\Programming\CoilGun\CoilGun_PC\CoilGun_PC\CoilGun_PC\obj\Debug\CoilGun_PC.csproj.CoreCompileInputs.cache
 F:\Programming\CoilGun\CoilGun_PC\CoilGun_PC\CoilGun_PC\obj\Debug\CoilGun_PC.exe
 F:\Programming\CoilGun\CoilGun_PC\CoilGun_PC\CoilGun_PC\obj\Debug\CoilGun_PC.pdb
+F:\Programming\CoilGun\CoilGun_PC\CoilGun_PC\CoilGun_PC\bin\Debug\LiveCharts.dll
+F:\Programming\CoilGun\CoilGun_PC\CoilGun_PC\CoilGun_PC\bin\Debug\LiveCharts.Wpf.dll
+F:\Programming\CoilGun\CoilGun_PC\CoilGun_PC\CoilGun_PC\bin\Debug\LiveCharts.pdb
+F:\Programming\CoilGun\CoilGun_PC\CoilGun_PC\CoilGun_PC\bin\Debug\LiveCharts.xml
+F:\Programming\CoilGun\CoilGun_PC\CoilGun_PC\CoilGun_PC\bin\Debug\LiveCharts.Wpf.pdb
+F:\Programming\CoilGun\CoilGun_PC\CoilGun_PC\CoilGun_PC\bin\Debug\LiveCharts.Wpf.xml
+F:\Programming\CoilGun\CoilGun_PC\CoilGun_PC\CoilGun_PC\obj\Debug\View\Graph_editable.g.cs
+F:\Programming\CoilGun\CoilGun_PC\CoilGun_PC\CoilGun_PC\obj\Debug\View\Graph_editable.baml
+F:\Programming\CoilGun\CoilGun_PC\CoilGun_PC\CoilGun_PC\obj\Debug\CoilGun_PC.csproj.CopyComplete
+F:\Programming\CoilGun\CoilGun_PC\CoilGun_PC\CoilGun_PC\obj\Debug\View\Data_in_graph.g.cs
+F:\Programming\CoilGun\CoilGun_PC\CoilGun_PC\CoilGun_PC\obj\Debug\View\Data_in_graph.baml

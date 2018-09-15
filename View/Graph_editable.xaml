@@ -1,0 +1,25 @@
+﻿<UserControl x:Class="CoilGun_PC.View.Graph_editable"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+             mc:Ignorable="d" 
+             d:DesignHeight="250" d:DesignWidth="700">
+
+    <Grid>
+
+        <lvc:CartesianChart Name="Chart" Series="{Binding SeriesCollection}" Margin="-5,-4,210,0" >
+
+        </lvc:CartesianChart>
+
+        <TextBlock Text="Data v grafu" Style="{StaticResource MainText}" Margin="505,10,10,205"/>
+        <ScrollViewer VerticalScrollBarVisibility="Auto" Margin="495,50,0,0">
+            <StackPanel x:Name="StackPanel">
+                <Grid Height="50" Width="205">
+                    <Button Content="Kliknutím přidáš data..." Click="Add_data_Click" Width="200" Height="25" Style="{StaticResource SecondButton}" Background="#FF320B9C"/>
+                </Grid>
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</UserControl>
